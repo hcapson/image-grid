@@ -73,6 +73,12 @@ img:nth-child(2) {
     display: block;
   }
 
+
+  img {
+    float: left;
+    width: 33.333%;
+  }
+
   img:nth-child(1) {
     float: left;
     width: 66.666%;
